@@ -1,0 +1,9 @@
+Enter the PDB name:
+use_cases
+Enter the admin username:
+uses
+Enter the admin password:
+1234
+Enter the file storage location:
+C:\oracle-pluggable-database\use-cases
+Pluggable Database created and configured successfully!

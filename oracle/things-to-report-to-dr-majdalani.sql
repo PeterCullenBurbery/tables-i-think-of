@@ -1,0 +1,1 @@
+select /*csv*/thing_to_report_to_dr_majdalani from things_to_report_to_dr_majdalani;
